@@ -1,4 +1,4 @@
-	#menum{
+#menum{
 	 
     margin-left: 30%;
     margin-right: 30%;
@@ -17,10 +17,11 @@ body{
 	
 	#ozgecmisbasligi{
 	color:#f4a460;
-	width:%30;
+	width:20%;
 	text-decoration:underline;
 	font-family:"courier  new";}
 	#ozgecmisiceriki{
-	width:%50;
+	width:50%;
 	font-weight: bold;
 	}
+	
