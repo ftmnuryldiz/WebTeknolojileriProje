@@ -13,7 +13,7 @@
 
     <div class="shadow-lg bg-light btn rounded mx-auto d-block w-50" id="menum">
 	 
-        <img src="resim.png" alt="Logomu Görmektesiniz." class="rounded-circle img-fluid mx-auto d-block" id="Logo">
+        <img src="resim.png" alt="Logomu Görmektesiniz." class="rounded-circle img-fluid mx-auto d-block" id="logo">
  
         <button onclick="parent.location='hakkimda.html'" class="btn btn-secondary" type="button">HAKKIMDA</button>
         <button onclick="parent.location='ozgecmis.html'" class="btn btn-secondary " type="button">ÖZGEÇMİŞ</button>
