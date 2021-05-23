@@ -1,0 +1,97 @@
+#menum{
+	 
+    margin-left: 30%;
+    margin-right: 30%;
+
+	}
+	#logo{
+	width:30%;
+	height:30%;
+	}
+	body{
+    background-color:#eee9e9;
+	}
+	
+	 #sehrimbaslik{
+ font-family:papyrus;
+ font-weight: bolder;
+ color:#a40000;
+ background-color: #b4eeb4;
+ width:20%;
+margin-top:2%;}
+
+	#sehrim1{
+	margin-top:2%;
+	color:#9400d3;
+	width:50%;
+	background-color:#ffec8b;
+	}
+
+	
+    #sayfa{
+        width: 864px;
+        margin: 0 auto;
+    }
+	
+
+.sliderinKonumu{
+    position: relative;
+    width: 864px;
+    height: 486px;
+    overflow: hidden;
+}
+.cami{left: 0px;}
+.ciger{left: 864px;}
+.gures{left: 1728px;}
+.camim{left: 2592px;}
+
+ .sliderinKonumu >.slider{
+      position: absolute;
+      left:0px;
+      width: 3456px;
+      height: 486px;
+      -webkit-animation-duration: 10s;
+      -webkit-animation-name: sliders;
+      -webkit-animation-iteration-count:infinite;
+      -moz-animation-duration: 10s;
+      -moz-animation-name: sliders;
+      -moz-animation-iteration-count:infinite;
+      -ms-animation-duration: 10s;
+      -ms-animation-name: sliders;
+      -ms-animation-iteration-count:infinite;
+      animation-duration: 10s;
+      animation-iteration-count:infinite;
+    }
+
+    @-webkit-keyframes sliders{
+      0% {left:0px;}
+      10% {left:0px;}
+      20% {left:-864px;}
+      30% {left:-864px;}
+      40% {left:-1728px;}
+      50% {left:-1728px;}
+    }
+    @-moz-keyframes sliders{
+      0% {left:0px;}
+      10% {left:0px;}
+      20% {left:-864px;}
+      30% {left:-864px;}
+      40% {left:-1728px;}
+      50% {left:-1728px;}
+    }
+    @-ms-keyframes sliders {
+      0% {left:0px;}
+      10% {left:0px;}
+      20% {left:-864px;}
+      30% {left:-864px;}
+      40% {left:-1728px;}
+      50% {left:-1728px;}
+    }
+    @keyframes sliders
+      0% {left:0px;}
+      10% {left:0px;}
+      20% {left:-864px;}
+      30% {left:-864px;}
+      40% {left:-1728px;}
+      50% {left:-1728px;}
+    }
