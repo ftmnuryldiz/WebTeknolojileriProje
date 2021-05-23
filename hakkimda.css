@@ -1,0 +1,36 @@
+#menum{
+	 
+    margin-left: 30%;
+    margin-right: 30%;
+
+	}
+	#logo{
+	width:30%;
+	height:30%;
+	}
+	body{
+    background-color:#eee9e9;
+
+ }
+
+ #hakkimdaBaslik{
+ font-family:arial;
+ font-weight: bolder;
+ color:#a0522d;
+ background-color:  #eecbad;
+ width:20%;
+margin-top:2%;}
+
+	#hakkimdaİcerik{
+	margin-top:2%;
+	font-weight: bolder;
+	color:#2f4f4f;
+	width:50%;
+	background-color:#f5fffa;
+	
+	}
+	p{
+	font-style:italic;
+	font-family:arial;
+	color:red;
+	margin-left:50%;}
