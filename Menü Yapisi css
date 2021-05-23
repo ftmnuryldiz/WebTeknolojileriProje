@@ -1,0 +1,15 @@
+#menum{
+	 
+    margin-left: 30%;
+    margin-right: 30%;
+
+	}
+	#Logo{
+	width:30%;
+	height:30%;
+	}
+body{
+    background-color:#eee9e9;
+
+ }
+	
